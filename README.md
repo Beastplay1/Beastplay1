@@ -27,5 +27,4 @@ Focused on breaking things (even UI :D), automating everything, and weaponize ed
 ![](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/debian-CE0056?style=for-the-badge&logo=debian&logoColor=white)
-![](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![](https://img.shields.io/badge/Caido-000000?style=for-the-badge&logo=caido&logoColor=white)
